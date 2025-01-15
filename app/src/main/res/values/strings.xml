@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="signIn">ثبت نام</string>
+    <string name="enter_info">لطفا اطلاعات ورود خود را وارد نمایید.</string>
+    <string name="name">نام</string>
+    <string name="last_name">نام خانوادگی</string>
+    <string name="coordinate_mobile">تلفن همراه</string>
+    <string name="coordinate_phone_number">تلفن ثابت</string>
+    <string name="address">آدرس دقیق</string>
+    <string name="male">آقا</string>
+    <string name="female">خانم</string>
+    <string name="gender">جنسیت</string>
+    <string name="next_stage">مرحله بعد</string>
+</resources>
